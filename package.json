@@ -12,5 +12,9 @@
   "devDependencies": {
     "sucrase": "^3.34.0",
     "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@types/validator": "^13.11.2",
+    "validator": "^13.11.0"
   }
 }
